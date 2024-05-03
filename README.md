@@ -2,7 +2,7 @@
 
 ### [Download From Here](https://vpm.dreadscripts.com/)
 
-![image](https://i.imgur.com/LGLzoa3.gif)
+![image](https://i.imgur.com/5fow365.gif)
 
 ## Features
 - Easily snap the Scene view to the position and rotation of the Game view camera.
