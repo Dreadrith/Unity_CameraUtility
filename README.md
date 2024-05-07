@@ -5,9 +5,7 @@
 ![image](https://i.imgur.com/5fow365.gif)
 
 ## Features
-- Easily snap the Scene view to the position and rotation of the Game view camera.
-- Quickly snap the Game view camera to the position and rotation of the Scene view camera.
-- Streamline your workflow by synchronizing views between Scene and Game modes.
+- Snap the Scene view to the position and rotation of the Game view camera or vice versa.
 
 ## How to Use
 1. Open the Unity Editor.
