@@ -1,8 +1,8 @@
 {
   "name": "com.dreadscripts.camerautility",
   "displayName": "DreadScripts - CameraUtility",
-  "version": "1.0.0",
-  "description": " Simple menu item to snap Game View to Scene View or vice versa.",
+  "version": "1.0.1",
+  "description": "Simple menu item to snap Game View to Scene View or vice versa.",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
@@ -12,5 +12,6 @@
   },
   "legacyFolders": {},
   "legacyFiles": {},
-  "type": "tool"
+  "type": "tool",
+  "unity": "2019.4"
 }
